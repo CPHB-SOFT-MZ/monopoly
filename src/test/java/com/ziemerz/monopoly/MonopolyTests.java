@@ -21,7 +21,7 @@ import static org.junit.Assert.*;
 @SpringBootTest
 @RunWith(SpringJUnit4ClassRunner.class)
 @DirtiesContext(classMode = DirtiesContext.ClassMode.AFTER_EACH_TEST_METHOD)
-public class PlayerTests {
+public class MonopolyTests {
 
     @Inject
     Game monopoly;
