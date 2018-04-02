@@ -1,3 +1,3 @@
-# monopoly
-## Run project
-`mvn spring-boot:run`
+# Monopoly
+### Run tests
+`mvn test`
